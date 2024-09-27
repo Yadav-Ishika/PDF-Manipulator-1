@@ -21,7 +21,7 @@
 2. Clone this `.git` repository
    Use Command :
    ```bash
-   git clone https://github.com/etsryn/File-Type-Converter.git
+   git clone https://github.com/etsryn/PDF-Manipulator.git
    ```
 3. Install the neceesary libraries if not installed earlier, Use Command :
    ```bash
