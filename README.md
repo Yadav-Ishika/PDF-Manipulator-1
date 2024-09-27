@@ -38,7 +38,7 @@
   ```bash
   https://github.com/UB-Mannheim/tesseract/wiki
   ```
-**Step 1** : Under The latest installers can be downloaded here: click `tesseract-ocr-w64-setup-5.4.0.20240606.exe (64 bit)` (Version May Get Updated At Your Time)<br />
+**Step 1** : Under `The latest installers can be downloaded here:` click `tesseract-ocr-w64-setup-5.4.0.20240606.exe (64 bit)` (Version May Get Updated At Your Time)<br />
 
 **Step 2** : Download will start, file is `47.9MB` (Size May Get Increased/Decreased At Your Time)<br />
 
