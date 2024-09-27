@@ -97,8 +97,8 @@ if 'merge_pdf_paths' not in st.session_state:
 if 'split_pdf_paths' not in st.session_state:
     st.session_state.split_paths = None
 
-if 'rearrang_pdf_paths' not in st.session_state:
-    st.session_state.rearrang_paths = None
+if 'rearrange_pdf_paths' not in st.session_state:
+    st.session_state.rearrange_paths = None
 
 if 'watermark_pdf_paths' not in st.session_state:
     st.session_state.watermark_paths = None
@@ -135,7 +135,7 @@ if st.sidebar.button("Split PDF"):
     st.session_state.conversion_type = "spdf"
     placeholder.empty()
 
-if st.sidebar.button("Rearrang PDF Pages"):
+if st.sidebar.button("Rearrange PDF Pages"):
     st.session_state.conversion_type = "rapdf"
     placeholder.empty()
 
