@@ -60,12 +60,12 @@
 
 ### 2. PyTorch library and its associated packages (torch, torchvision, and torchaudio)
   #### Below Command is Recommended if you have an NVIDIA GPU and want to take advantage of GPU acceleration<br />
-  Run Either This Command
+  > Run Either This Command
   ```bash
   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
   ```
   #### Below Command is Recommended if you don't have an NVIDIA GPU, or for tasks where GPU acceleration is not required
-  Or Run This Command
+  > Or Run This Command
   ```bash
   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
   ```
@@ -94,7 +94,7 @@
 - Feature 8 `Encrypting & Decrypting PDF`
 - Feature 9 `OCR Text Extraction`
 - Feature 10 `Rotate PDF Pages`
-- More to come...
+> More to come...
 
 # Contributing
 1. You can improve the design of UI which may look more professional and easy to use
