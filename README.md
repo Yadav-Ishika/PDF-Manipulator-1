@@ -1,5 +1,5 @@
 # Portable Document Format Manipulator : PDF-M
-
+![Landing Page](previews/landing.jpg)
 # Description
 **PDF-Manipulator**, this `Streamlit-based` web application allows users to seamlessly manipulate PDF in various forms, including `Merging`, `Splitting`, `Watermarking`, `Encrypting & Decrypting`, `OCR - Text Extracting` and `Adding, Deleting & Rotating PDF Pages`. The application is designed to be **user-friendly**, **fast**, and **reliable**.
 
