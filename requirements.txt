@@ -1,5 +1,5 @@
 docx2pdf==0.1.8
-fitz==0.0.1.dev2
+PyMuPDF==1.20.0  # Use stable version of PyMuPDF
 pandas==2.2.3
 pdf2image==1.17.0
 pdfplumber==0.11.5
